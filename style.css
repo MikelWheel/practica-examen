@@ -1,0 +1,60 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+a.titulo{
+    color: orange;
+    text-decoration: underline blue;
+    text-align: center;
+}
+div.t{
+    border-top: 1px solid ;
+    border-bottom: 1px solid;
+}
+p.segundo{
+    color: blue;
+    text-decoration: underline;
+}
+div.rosa{
+    background-color: pink;
+}
+div.gris{
+    background-color: gray;
+    text-align: center;
+}
+div.azul{
+    background-color: lightblue;
+    
+    
+}
+span.rojo{
+    color: red;
+}
+div.amarillo{
+    background-color: yellow;
+    border-top: 1px solid ;
+    border-bottom: 1px solid;
+    text-align: center;
+}
+p.segundob{
+    color: blue;
+   
+}
+p.segundoc{
+    color: blue;
+    text-decoration: underline;
+}
+div.as1{
+    color: orange;
+    text-decoration: underline blue;
+    border-top: 1px solid ;
+    border-bottom: 1px solid;
+    text-align: center;
+}
+
+p.formu{
+    color: orange;
+}
+section.espa{
+    padding-bottom: 10px;
+}
+
